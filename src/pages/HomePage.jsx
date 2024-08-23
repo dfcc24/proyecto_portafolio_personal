@@ -1,5 +1,5 @@
 import React from 'react';
-import withStyle from '../hocs/WithStyle';
+import withStyle from '../hocs/withStyle';
 
 const HomePage = () => {
   return (
