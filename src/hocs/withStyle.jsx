@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const withStyle = (WrappedComponent) => {
   return (props) => (
-    <div style={{ padding: '20px', backgroundColor: '#f5f5f5' }}>
+    <div style={{ /* tus estilos aquí */ }}>
       <WrappedComponent {...props} />
     </div>
   );

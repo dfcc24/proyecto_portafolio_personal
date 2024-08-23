@@ -3,7 +3,8 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import AppRoutes from '../src/routes/Routes.jsx';
 import Navbar from './components/Navbar';
 import Footer from './components/footer.jsx';
-import './app.css';  // No necesitas asignarle un nombre, solo importarlo.
+import './app.css';  
+
 
 
 const App = () => {
